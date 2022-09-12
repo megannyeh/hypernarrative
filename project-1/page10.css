@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    margin:auto;
+    padding: 100px;
+	cursor: url("assets/cur.png"), auto;
+	background-image: url('assets/dessert.jpg');
+ 	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: cover;
+}
+section{
+	text-align: center;
+}
+.child{
+	float:left;
+	padding-left: 30%;
+	margin-top:10px;
+}
+.child1{
+	float:right;
+	padding-right: 30%;
+	margin-top:60px;
+}
+
+h1{
+	font-family: monospace;
+	font-size:40px;
+}
+
+p{
+	font-family: monospace;
+	font-size: 20px;	
+	font-weight: bold;
+}
+
